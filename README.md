@@ -1,4 +1,4 @@
-![macOS Cursors Megapack for Windows](https://github.com/hv33y/macOS-cursors/blob/main/screenshot.jpg)
+![macOS Cursors Megapack for Windows](https://github.com/hv33y/macOS-cursors/blob/master/screenshot.jpg)
 
 # macOS Cursors Megapack for Windows
 This is cursors only for 4K (3840 x 2160 pixel) resolution.
